@@ -1,6 +1,6 @@
 ## Olá! Eu sou o **Artur** 👋
 
-Olá, me chamo Artur, tenho 17 anos (18 em agosto) e moro no Brasil.  
+Olá, me chamo Artur, tenho 17 anos e moro no Brasil.  
 Sou apaixonado por tecnologia, principalmente programação e tudo que envolve desenvolvimento web.
 
 - 💻 Estudante de Informática e Programação
