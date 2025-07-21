@@ -37,9 +37,3 @@
 
 ---
 
-### 🐍 Snake Eat Your Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ArturBrunoD/ArturBrunoD/output/github-contribution-grid-snake.svg" alt="snake eating contributions">
-</div>
-
